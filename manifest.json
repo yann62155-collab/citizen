@@ -8,6 +8,613 @@
     "ip": "play.mon-serveur.fr"
   },
   "strict_mods": true,
-  "files": [],
-  "generated": "2026-11-11T13:20:35.669089100Z"
+  "files": [
+    {
+      "path": "mods/accessories-neoforge-1.1.0-beta.52+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/accessories-neoforge-1.1.0-beta.52%2B1.21.1.jar",
+      "sha1": "c2b288a7fa9ae595e3fa9cc7deee56306474e300",
+      "size": 1078973
+    },
+    {
+      "path": "mods/alloy-forgery-2.4.1+1.21$owo-sentinel-0.12.11+1.21.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/alloy-forgery-2.4.1%2B1.21%24owo-sentinel-0.12.11%2B1.21.jar",
+      "sha1": "18cae3d9b0f5bdb9609057aecd293fd099207416",
+      "size": 17032
+    },
+    {
+      "path": "mods/architectury-13.0.8-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/architectury-13.0.8-neoforge.jar",
+      "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b",
+      "size": 584004
+    },
+    {
+      "path": "mods/blueprint-1.21.1-8.1.0.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/blueprint-1.21.1-8.1.0.jar",
+      "sha1": "980070b8bba4c0ddbeb1c665e48d9d74841ab35a",
+      "size": 1198111
+    },
+    {
+      "path": "mods/Bonfires-1.21.1-1.2.20b-neoforge-88de527.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/Bonfires-1.21.1-1.2.20b-neoforge-88de527.jar",
+      "sha1": "a809d73db80037b6646e96b6ade56be0b465c66f",
+      "size": 389776
+    },
+    {
+      "path": "mods/bonsaitrees4-4.0.9.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/bonsaitrees4-4.0.9.jar",
+      "sha1": "06926c7dc020fa89737c3f2e4a0a722e36b89c81",
+      "size": 3812146
+    },
+    {
+      "path": "mods/bossesrise-1.21.1-neoforge-1.0.9.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/bossesrise-1.21.1-neoforge-1.0.9.jar",
+      "sha1": "b9b41c2860025102da0b67895221ba1e83f9bfee",
+      "size": 21665725
+    },
+    {
+      "path": "mods/butchery-4.0-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/butchery-4.0-neoforge-1.21.1.jar",
+      "sha1": "06607e1709c6dfd5782e6a07df3dc45342c16d1b",
+      "size": 12505195
+    },
+    {
+      "path": "mods/charselect-1.1.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/charselect-1.1.1.jar",
+      "sha1": "4c909cf57d4b17e3d69e12bc085c2d12336e7013",
+      "size": 221455
+    },
+    {
+      "path": "mods/citizencinematics-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/citizencinematics-1.0.0.jar",
+      "sha1": "6102d57ab4787f28c67ae73898838a8ba4cb2213",
+      "size": 22353
+    },
+    {
+      "path": "mods/citizeneconomy-0.1.0.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/citizeneconomy-0.1.0.jar",
+      "sha1": "72cfba926df35270b763dd4a81d0a207a1919113",
+      "size": 14350643
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/cloth-config-15.0.140-neoforge.jar",
+      "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+      "size": 1163890
+    },
+    {
+      "path": "mods/common-networking-neoforge-1.0.21-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/common-networking-neoforge-1.0.21-1.21.1.jar",
+      "sha1": "276fbf912ace90281f5faec987c735019884dbe4",
+      "size": 26016
+    },
+    {
+      "path": "mods/corerpg-quests-1.21.1-neoforge-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/corerpg-quests-1.21.1-neoforge-1.0.0.jar",
+      "sha1": "d1b136f940ac8b413f5bc74e44ee45bf6938561c",
+      "size": 878714
+    },
+    {
+      "path": "mods/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "sha1": "b044c51d00d60b5645a0c0890812935cd933555f",
+      "size": 63981
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.8.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/create-1.21.1-6.0.8.jar",
+      "sha1": "eee603ac7b083c9cd3a8ded4d4e3ed1a9a836f96",
+      "size": 19001557
+    },
+    {
+      "path": "mods/create-new-age-1.1.7+neoforge-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/create-new-age-1.1.7%2Bneoforge-mc1.21.1.jar",
+      "sha1": "9c63ff77623cbf823e9820a2ce4933a131bf619e",
+      "size": 1588423
+    },
+    {
+      "path": "mods/createaddition-1.5.9.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/createaddition-1.5.9.jar",
+      "sha1": "039e3cf4ba526fd10204834b8ad6df8f549f86c3",
+      "size": 1595080
+    },
+    {
+      "path": "mods/croptopia_1.21.1_NEO-FORGE-4.2.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/croptopia_1.21.1_NEO-FORGE-4.2.1.jar",
+      "sha1": "0a4c4194bd5ec559c073531be87dded3e57a4f55",
+      "size": 2194312
+    },
+    {
+      "path": "mods/curios-neoforge-9.0.15+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/curios-neoforge-9.0.15%2B1.21.1.jar",
+      "sha1": "0b05c0662b08e7541b1e303d6cd214dee56fed0f",
+      "size": 370972
+    },
+    {
+      "path": "mods/day_counter_v5.1_1.21.1_[NEOFORGE].jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/day_counter_v5.1_1.21.1_%5BNEOFORGE%5D.jar",
+      "sha1": "96ef66fcff4895966800ad09ba2aaf4613f03f39",
+      "size": 423989
+    },
+    {
+      "path": "mods/drinkbeer-refill-1.21.1-1.2.0.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/drinkbeer-refill-1.21.1-1.2.0.jar",
+      "sha1": "8e54fc89091f3cc44507c6103e7e07056a6930c8",
+      "size": 1498395
+    },
+    {
+      "path": "mods/DungeonsArise-1.21.1-2.1.68-release.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/DungeonsArise-1.21.1-2.1.68-release.jar",
+      "sha1": "c651339154da7b9e9cf47a80fdef22c4d59cad5c",
+      "size": 11842679
+    },
+    {
+      "path": "mods/dynamicsurroundings-neoforge-1.21.1-0.4.9.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/dynamicsurroundings-neoforge-1.21.1-0.4.9.jar",
+      "sha1": "4749b3b71788d1fed79964a73a2244da39263189",
+      "size": 15731430
+    },
+    {
+      "path": "mods/easy_npc_bundle-6.0.21-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/easy_npc_bundle-6.0.21-neoforge-1.21.1.jar",
+      "sha1": "20fa388aa4aadfd415877283cdb08d6423b306cc",
+      "size": 2006635
+    },
+    {
+      "path": "mods/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+      "sha1": "0ee19acd03b6f03b568b2682b7e662bfd8af73ef",
+      "size": 746263
+    },
+    {
+      "path": "mods/epic-knights-1.21.1-neoforge-9.30.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/epic-knights-1.21.1-neoforge-9.30.jar",
+      "sha1": "12d530d5956d1da98fa6cadda9763ab3f5ad45d2",
+      "size": 2611334
+    },
+    {
+      "path": "mods/epicfight-neoforge-21.13.5-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/epicfight-neoforge-21.13.5-1.21.1.jar",
+      "sha1": "95547cb2078d1df38486216e86a0b133dbb69dcd",
+      "size": 7985558
+    },
+    {
+      "path": "mods/EternalNether-v21.1.3-1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/EternalNether-v21.1.3-1.21.1-NeoForge.jar",
+      "sha1": "3460532417842063306c5a12428b3c877e18d073",
+      "size": 7395290
+    },
+    {
+      "path": "mods/FarmersDelight-1.21.1-1.2.9.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/FarmersDelight-1.21.1-1.2.9.jar",
+      "sha1": "9abe078f48781e4b87288dbc59691c8ba1152d8d",
+      "size": 2964387
+    },
+    {
+      "path": "mods/farmersdelight_extended-1.21.1-0.2.2.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/farmersdelight_extended-1.21.1-0.2.2.jar",
+      "sha1": "45200860ea91640de38abb059e950f8abed5f055",
+      "size": 142253
+    },
+    {
+      "path": "mods/fishingreal-neoforge-1.21.1-1.9.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/fishingreal-neoforge-1.21.1-1.9.1.jar",
+      "sha1": "c1c8e33833aabbd5b14c65e464339763035facc5",
+      "size": 19450
+    },
+    {
+      "path": "mods/fish_of_thieves-mc1.21.1-v21.1.0.0-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/fish_of_thieves-mc1.21.1-v21.1.0.0-neoforge.jar",
+      "sha1": "779d35f52a2c87c6d6c0acdb73ee025ef3068843",
+      "size": 1605388
+    },
+    {
+      "path": "mods/framework-neoforge-1.21.1-0.13.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/framework-neoforge-1.21.1-0.13.1.jar",
+      "sha1": "224d36da132e660b6933f2c71ea2db36d30b035e",
+      "size": 317920
+    },
+    {
+      "path": "mods/ftb-materials-neoforge-21.1.3.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/ftb-materials-neoforge-21.1.3.jar",
+      "sha1": "ddebaffbe18faab440552654b9b0e456c6be4afb",
+      "size": 3109791
+    },
+    {
+      "path": "mods/geckolib-neoforge-1.21.1-4.8.2.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/geckolib-neoforge-1.21.1-4.8.2.jar",
+      "sha1": "b2d84a5ea8b8944be66dbf817f0d4aa3f494db7a",
+      "size": 621848
+    },
+    {
+      "path": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+      "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
+      "size": 634531
+    },
+    {
+      "path": "mods/GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "sha1": "8bce11b0b5233146051bb7b7a227247e03fe88b2",
+      "size": 90918
+    },
+    {
+      "path": "mods/goblintraders-neoforge-1.21.1-1.11.2.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/goblintraders-neoforge-1.21.1-1.11.2.jar",
+      "sha1": "4507faefb977321b598daa3fb35d7e1a9a03eb80",
+      "size": 462245
+    },
+    {
+      "path": "mods/guardvillagers-2.3.0-1.21.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/guardvillagers-2.3.0-1.21.jar",
+      "sha1": "15e0fbd0c0800bc6bdf628ba60f92105f087c2f1",
+      "size": 267529
+    },
+    {
+      "path": "mods/hiboupostal-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/hiboupostal-1.0.0.jar",
+      "sha1": "86cb4cb7d884642763e9d25b9a5c48d4b509d267",
+      "size": 89884
+    },
+    {
+      "path": "mods/iceandfire-neoforge-2.1.13-beta.10-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/iceandfire-neoforge-2.1.13-beta.10-1.21.1.jar",
+      "sha1": "af316ff5da4eee0d60dd3da83c36a4de2ee8801a",
+      "size": 21975003
+    },
+    {
+      "path": "mods/imaginebook-neoforge-1.2.9+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/imaginebook-neoforge-1.2.9%2B1.21.1.jar",
+      "sha1": "ca4d5e3db54c4f9b02ccd1f981591c6e540b6dda",
+      "size": 1809158
+    },
+    {
+      "path": "mods/immersivemc-1.5.2-1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/immersivemc-1.5.2-1.21.1-neoforge.jar",
+      "sha1": "57ff236c845f2dc27e5a3de018362c455804f2be",
+      "size": 730997
+    },
+    {
+      "path": "mods/immersive_aircraft-1.4.1+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/immersive_aircraft-1.4.1%2B1.21.1-neoforge.jar",
+      "sha1": "bea2251c01fffd3460b483ac336a2454e7318a10",
+      "size": 2436870
+    },
+    {
+      "path": "mods/immersive_armors-1.7.5+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/immersive_armors-1.7.5%2B1.21.1-neoforge.jar",
+      "sha1": "dde4c77eeb832968d79fb650e60e741598d59adc",
+      "size": 1271062
+    },
+    {
+      "path": "mods/ImprovedPillagerOutpost-v5.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/ImprovedPillagerOutpost-v5.jar",
+      "sha1": "325f371af2ef6af8d12fc12e99a82fbdab680cb2",
+      "size": 619296
+    },
+    {
+      "path": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+      "sha1": "a3e6355915c7d3b2bc392724795113e51d289378",
+      "size": 2438548
+    },
+    {
+      "path": "mods/irons_lib-1.21.1-2.1.0.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/irons_lib-1.21.1-2.1.0.jar",
+      "sha1": "70fba64d12b6ff9553580e52101d989c89297797",
+      "size": 406284
+    },
+    {
+      "path": "mods/irons_spellbooks-1.21.1-3.16.3.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/irons_spellbooks-1.21.1-3.16.3.jar",
+      "sha1": "e8832385c01db56b9fcb19c48fcedc76a3a70d92",
+      "size": 13890045
+    },
+    {
+      "path": "mods/jei-1.21.1-neoforge-19.25.1.332.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/jei-1.21.1-neoforge-19.25.1.332.jar",
+      "sha1": "54d1e999f496dc76bce821f605e31d071252a0f3",
+      "size": 1517028
+    },
+    {
+      "path": "mods/jupiter-2.3.0-beta.4-1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/jupiter-2.3.0-beta.4-1.21.1-neoforge.jar",
+      "sha1": "a5da3edb53980e7847a676a2dd76ea1a3abfbb8c",
+      "size": 273624
+    },
+    {
+      "path": "mods/Kiwi-1.21.1-NeoForge-15.7.5.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/Kiwi-1.21.1-NeoForge-15.7.5.jar",
+      "sha1": "68913c5e74a0c7f7d04dac0c65015d53d5bb6254",
+      "size": 1530230
+    },
+    {
+      "path": "mods/letsdo-wildernature-neoforge-1.1.8.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/letsdo-wildernature-neoforge-1.1.8.jar",
+      "sha1": "8a2a614807d1d76aac9fba02d4b2a0d1843b5d05",
+      "size": 3914173
+    },
+    {
+      "path": "mods/livingthings-neoforge-1.21.1-2.3.2.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/livingthings-neoforge-1.21.1-2.3.2.jar",
+      "sha1": "5469c65df44ac30303f300988e5e78adc3a4476a",
+      "size": 966572
+    },
+    {
+      "path": "mods/lodestone-1.21.1-1.8.2.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/lodestone-1.21.1-1.8.2.jar",
+      "sha1": "d1f7c638fac5192e01b1873f27e694a3c262ad11",
+      "size": 818829
+    },
+    {
+      "path": "mods/Luminous Nether V1.3.4 - NeoForge 1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/Luminous%20Nether%20V1.3.4%20-%20NeoForge%201.21.1.jar",
+      "sha1": "d70045e9463291dc06498863840e281b751244cd",
+      "size": 24107665
+    },
+    {
+      "path": "mods/Lychee-1.21.1-NeoForge-6.3.8.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/Lychee-1.21.1-NeoForge-6.3.8.jar",
+      "sha1": "76a8945c7cf3aac26b6efafaf3fe643782376c95",
+      "size": 963667
+    },
+    {
+      "path": "mods/mahoutsukai-1.21.1-v1.36.20.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/mahoutsukai-1.21.1-v1.36.20.jar",
+      "sha1": "cbd37161be724cf464a547b6828bdd9c775ce63a",
+      "size": 5030121
+    },
+    {
+      "path": "mods/medieval_buildings-1.21.1-1.1.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/medieval_buildings-1.21.1-1.1.1-neoforge.jar",
+      "sha1": "0a2214e95eb318ad64b3b3faf2cad036459ffc17",
+      "size": 214623
+    },
+    {
+      "path": "mods/medieval_buildings_end_edition-1.21.1-1.0.4-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/medieval_buildings_end_edition-1.21.1-1.0.4-neoforge.jar",
+      "sha1": "b5986544126a7600f70ea20709d28b11f28cd6ab",
+      "size": 438618
+    },
+    {
+      "path": "mods/medieval_buildings_nether_edition-1.21.1-1.0.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/medieval_buildings_nether_edition-1.21.1-1.0.1-neoforge.jar",
+      "sha1": "304c6cc15ba1f1059ddefb7311fe62e3139895fb",
+      "size": 538302
+    },
+    {
+      "path": "mods/MoAnimals-neoforge-0.0.2-ALPHA.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/MoAnimals-neoforge-0.0.2-ALPHA.jar",
+      "sha1": "bcf4177012f3cef16052233f322456d7ee47e06a",
+      "size": 374614
+    },
+    {
+      "path": "mods/moneyforeveryone-3.2.0-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/moneyforeveryone-3.2.0-neoforge-1.21.1.jar",
+      "sha1": "31e8fb52af935fdfa2e8e1b32761caf7c25cf1af",
+      "size": 146093
+    },
+    {
+      "path": "mods/morevanillashields-1.0.2-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/morevanillashields-1.0.2-1.21.1.jar",
+      "sha1": "99051fce92d71d696604a8b4f601fa6d6c9b7c22",
+      "size": 324334
+    },
+    {
+      "path": "mods/music_player-neoforge-1.21.1-2.7.1.351.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/music_player-neoforge-1.21.1-2.7.1.351.jar",
+      "sha1": "8a9540f0786a30673d4621bf9f46bd6ebeda3ea3",
+      "size": 38629380
+    },
+    {
+      "path": "mods/MutantMonsters-v21.1.1-1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/MutantMonsters-v21.1.1-1.21.1-NeoForge.jar",
+      "sha1": "c9981cf323d5e0fd49387ad20dafec1f58b2c88d",
+      "size": 1346730
+    },
+    {
+      "path": "mods/NetherEx-neoforge-1.21.1-1.2.4.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/NetherEx-neoforge-1.21.1-1.2.4.jar",
+      "sha1": "bf6567c61ac5e942733b1f6cb90047b337198450",
+      "size": 1737314
+    },
+    {
+      "path": "mods/nethervillagertrader-2.0.0-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/nethervillagertrader-2.0.0-neoforge-1.21.1.jar",
+      "sha1": "b361751be52755846616967b09373f2ea35e3552",
+      "size": 103235
+    },
+    {
+      "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
+      "sha1": "48dda11a6710591cf162bdbedf982ea21dd1f2ed",
+      "size": 1221583
+    },
+    {
+      "path": "mods/Patchouli-1.21.1-92-NEOFORGE (1).jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/Patchouli-1.21.1-92-NEOFORGE%20%281%29.jar",
+      "sha1": "97ae42096ee4a0a242cd8468dde293017f3cc39c",
+      "size": 646486
+    },
+    {
+      "path": "mods/Patchouli-1.21.1-92-NEOFORGE.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/Patchouli-1.21.1-92-NEOFORGE.jar",
+      "sha1": "97ae42096ee4a0a242cd8468dde293017f3cc39c",
+      "size": 646486
+    },
+    {
+      "path": "mods/picturesign-neoforge-2.0.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/picturesign-neoforge-2.0.1.jar",
+      "sha1": "a5c52492116685df50cc1995423a31aed85db552",
+      "size": 168112
+    },
+    {
+      "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+      "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
+      "size": 203149
+    },
+    {
+      "path": "mods/player-trails-1.21.1-forgix-architectury-1.0.0-build4-all.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/player-trails-1.21.1-forgix-architectury-1.0.0-build4-all.jar",
+      "sha1": "716ab1db9c9be409ef74b064d43169a558a4c9e1",
+      "size": 98076
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "sha1": "bcc0900fbbf6d6fc5ca05039cd5725e6145225f2",
+      "size": 1080389
+    },
+    {
+      "path": "mods/Rampart-neoforge-1.1.0+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/Rampart-neoforge-1.1.0%2B1.21.1.jar",
+      "sha1": "4f8384c07ec38e45c2696e22cb7d31ff62b0b11e",
+      "size": 98992
+    },
+    {
+      "path": "mods/regions_unexplored-neoforge-1.21.1-0.5.6.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/regions_unexplored-neoforge-1.21.1-0.5.6.1.jar",
+      "sha1": "c1ae178aac15836e4ebd9d51cf08aed572167014",
+      "size": 5496016
+    },
+    {
+      "path": "mods/repurposed_structures-7.5.17+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/repurposed_structures-7.5.17%2B1.21.1-neoforge.jar",
+      "sha1": "2079a66cda18db8095c27808f95194b752ca704a",
+      "size": 8238540
+    },
+    {
+      "path": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "sha1": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031",
+      "size": 341009
+    },
+    {
+      "path": "mods/RPG_Style_More_Weapons_R_1.0.1_BETA_NeoForge_1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/RPG_Style_More_Weapons_R_1.0.1_BETA_NeoForge_1.21.1.jar",
+      "sha1": "f51618d8ad1524f2253a8b68f5dbf7e988a53937",
+      "size": 1132330
+    },
+    {
+      "path": "mods/seasonal_decorations-1.0411-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/seasonal_decorations-1.0411-neoforge-1.21.1.jar",
+      "sha1": "d2034700850469dc35aff1f8edb3eeb6b38d7708",
+      "size": 310000
+    },
+    {
+      "path": "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "sha1": "8b9034d4c43f880b1f1ebdd3943219de0b0bc4c5",
+      "size": 159205
+    },
+    {
+      "path": "mods/skinrestorer-2.4.3+1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/skinrestorer-2.4.3%2B1.21-neoforge.jar",
+      "sha1": "b8a963a0659129b4957048738818cd49f88e722a",
+      "size": 187473
+    },
+    {
+      "path": "mods/smallships-neoforge-1.21.1-2.0.0-b2.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/smallships-neoforge-1.21.1-2.0.0-b2.1.jar",
+      "sha1": "aa586dc4339d49db1c988497415d197195849fb9",
+      "size": 1914804
+    },
+    {
+      "path": "mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "sha1": "0310135a01eeceefbc7f1ab017498a65f3ad6836",
+      "size": 391053
+    },
+    {
+      "path": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+      "sha1": "38af70fa4dc4b2aaac636e92fdba3bedd5a025e1",
+      "size": 1162994
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.25.14.1410.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/sophisticatedbackpacks-1.21.1-3.25.14.1410.jar",
+      "sha1": "5676cf0e7634a6b186e491f5f8d919563808e6f8",
+      "size": 976161
+    },
+    {
+      "path": "mods/sophisticatedcore-1.21.1-1.3.89.1239.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/sophisticatedcore-1.21.1-1.3.89.1239.jar",
+      "sha1": "5ac6fafc45a9b343d45efc5f6532619782765c0f",
+      "size": 1485311
+    },
+    {
+      "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "sha1": "744394d979b422be560babf9df7a6800ede9ac5b",
+      "size": 120365
+    },
+    {
+      "path": "mods/Terralith_1.21.x_v2.5.8.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/Terralith_1.21.x_v2.5.8.jar",
+      "sha1": "bee0cfb1a8cd4bf3d96bccea224fb45d74de9085",
+      "size": 3115385
+    },
+    {
+      "path": "mods/TFC-items-1.21.1-neoforge-1.2.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/TFC-items-1.21.1-neoforge-1.2.1.jar",
+      "sha1": "4969a56a3ea90a304f6a982e64a92f638aece978",
+      "size": 1086659
+    },
+    {
+      "path": "mods/tide-neoforge-1.21-1.6.2.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/tide-neoforge-1.21-1.6.2.jar",
+      "sha1": "a8f16f1bb40016e7da46b2e3a0ff823ecbb499a2",
+      "size": 950934
+    },
+    {
+      "path": "mods/uranus-2.4-1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/uranus-2.4-1.21.1-neoforge.jar",
+      "sha1": "757d8dd20bf22c7157e275c2a7643cde76984e4d",
+      "size": 847484
+    },
+    {
+      "path": "mods/u_team_core-neoforge-1.21.1-5.6.2.384.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/u_team_core-neoforge-1.21.1-5.6.2.384.jar",
+      "sha1": "19ff2102f18ff7ac147fcd94fed9af0a09231781",
+      "size": 579911
+    },
+    {
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.6.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/voicechat-neoforge-1.21.1-2.6.6.jar",
+      "sha1": "4ec23888ba68fe2b336f571c1d67de9ee25024c9",
+      "size": 4870236
+    },
+    {
+      "path": "mods/watermedia-3.0.1.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/watermedia-3.0.1.jar",
+      "sha1": "2547e8cb1f3352267b1cb667aeec42754dbdf101",
+      "size": 3331207
+    },
+    {
+      "path": "mods/watermedia_binaries-3.0.1.jar",
+      "url": "https://github.com/yann62155-collab/citizen/releases/download/gros-fichiers/watermedia_binaries-3.0.1.jar",
+      "sha1": "f9b55e50abeb36eea847a3cb448637d621cd9979",
+      "size": 152313121
+    },
+    {
+      "path": "mods/watut-neoforge-1.21.0-1.2.7.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/watut-neoforge-1.21.0-1.2.7.jar",
+      "sha1": "07cfb8fb1269f1eae1056492912e3544be979f62",
+      "size": 432269
+    },
+    {
+      "path": "mods/worldedit-mod-7.3.8 (1).jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/worldedit-mod-7.3.8%20%281%29.jar",
+      "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
+      "size": 6222854
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.7.1+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/yann62155-collab/citizen/main/mods/yet_another_config_lib_v3-3.7.1%2B1.21.1-neoforge.jar",
+      "sha1": "7567715bd90e6f3420eee6d468eec1db861a03f2",
+      "size": 1111051
+    }
+  ],
+  "generated": "2026-11-11T13:33:13.326912500Z"
 }

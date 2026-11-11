@@ -1,0 +1,13 @@
+{
+  "name": "Citizen RP",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.215",
+  "message": "Bienvenue dans le royaume !",
+  "server": {
+    "name": "Citizen RP",
+    "ip": "play.mon-serveur.fr"
+  },
+  "strict_mods": true,
+  "files": [],
+  "generated": "2026-11-11T13:20:35.669089100Z"
+}
